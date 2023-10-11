@@ -1,5 +1,7 @@
 # Shlomo Shahahe
-A font designed like Sans Forgetica, Based on the free font "Secular One" by Michal Sahar. This font is designed by Eitan Biletski. Licensed by the Open Font License.
+A font designed like Sans Forgetica (Turned Up Not Reminding At All), Based on the free font "Secular One" by Michal Sahar. This font is designed by Eitan Biletski. Licensed by the Open Font License.
+
+<img height="128" src="ShlomoShahaheExample.png" />
 
 ### Using it
 > [Shaijyy](https://shaijyy.netlify.app/),
